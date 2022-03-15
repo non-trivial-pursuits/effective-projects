@@ -1,3 +1,12 @@
-<form accept-charset="UTF-8" action="action_page.php" autocomplete="off" method="GET" target="_blank"><input name="democheckbox" type="checkbox" value="1" /> [5 min] Take Charity Entrepeneurship&rsquo;s <a href="https://charityentrepreneurship.aidaform.com/CEQuiz">founder quiz</a><br /> <input name="democheckbox" type="checkbox" value="1" /> [15 min] Watch a video on <a href ="https://www.youtube.com/watch?v=3xU050kMbHM">how to launch a product</a> <br /> <input name="democheckbox" type="checkbox" value="1" /> [17 min] Listen to Varsha Venugopal on <a href="https://80000hours.org/podcast/episodes/varsha-venugopal-vaccinations-children-india/?startTime=197.24&amp;endTime=1230.00&amp;btp=9cd3f71a">how she founded her non profit in India</a>
-  </form>
-	
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Founding effective projects</title>
+ </head>
+ <body>
+	<form accept-charset="UTF-8" action="action_page.php" autocomplete="off" method="GET" target="_blank">
+		<input name="democheckbox" type="checkbox" value="1" /> [5 min] Take Charity Entrepeneurship&rsquo;s <a href="https://charityentrepreneurship.aidaform.com/CEQuiz">founder quiz</a><br />
+		<input name="democheckbox" type="checkbox" value="1" /> [15 min] Watch a video on <a href ="https://www.youtube.com/watch?v=3xU050kMbHM">how to launch a product</a> <br />
+		<input name="democheckbox" type="checkbox" value="1" /> [17 min] Listen to Varsha Venugopal on <a href="https://80000hours.org/podcast/episodes/varsha-venugopal-vaccinations-children-india/?startTime=197.24&amp;endTime=1230.00&amp;btp=9cd3f71a">how she founded her non profit in India</a>
+	 </form>
+ </body>
